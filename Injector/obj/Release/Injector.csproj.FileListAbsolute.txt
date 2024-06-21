@@ -1,0 +1,14 @@
+D:\Injector\Injector\obj\Release\Injector.csproj.AssemblyReference.cache
+D:\Injector\Injector\obj\Release\Injector.Form1.resources
+D:\Injector\Injector\obj\Release\Injector.Properties.Resources.resources
+D:\Injector\Injector\obj\Release\Injector.csproj.GenerateResource.cache
+D:\Injector\Injector\obj\Release\Injector.csproj.CoreCompileInputs.cache
+D:\Injector\Injector\obj\Release\Injector.exe
+D:\Injector\Injector\obj\Release\Injector.pdb
+D:\Injector\Injector\bin\Release\Injector.exe.config
+D:\Injector\Injector\bin\Release\Injector.exe
+D:\Injector\Injector\bin\Release\Injector.pdb
+D:\Injector\Injector\bin\Release\Guna.UI2.dll
+D:\Injector\Injector\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Injector\Injector\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Injector\Injector\obj\Release\Injector.csproj.Up2Date
